@@ -44,8 +44,8 @@ const deleteMap = (unidade, nomeSetor) => {
     }, 1000)
 }
 
-// mapear("x", "comercial", "Setor Comercial")
-deleteMap("x", "Setor Comercial")
+mapear("p", "eletroeletronico", "Projetos Eletronicos")
+// deleteMap("p", "Projetos Eletronicos")
 
 // exec("net use g: \\\\fs\\area_pessoal", (err, stdout) => {
 //     if(err) {
