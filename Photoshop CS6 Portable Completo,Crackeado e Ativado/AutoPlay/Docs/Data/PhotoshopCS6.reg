@@ -1,0 +1,375 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\050C83F3C11E]
+@="676ADCA049B9AAF45E5A30905C36B7DBF7CDC87D"
+
+[HKEY_CURRENT_USER\Software\Adobe\1B4243CBA505]
+@="247C23429D5CD0C4F7B319356C5EDFFB1D620382"
+
+[HKEY_CURRENT_USER\Software\Adobe\1D41723C57DD]
+@="68261736888F7A7CB1BB88237F7B81503BB5F31A"
+
+[HKEY_CURRENT_USER\Software\Adobe\37ABFFDF5407]
+@="D947DD653CD443258FAEF2CA507410D3060B5801"
+
+[HKEY_CURRENT_USER\Software\Adobe\72C141CF7285]
+@="D28DBD5037BCA5807634A0CAC404DED3D541E67C"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="8f553bb4-73e6-4661-b61f-8083d39648a8"
+"Agent"="C:\\Users\\Alisson(NãoUtilize)\\Desktop\\DIVERSOS\\Photoshop CS6 Portable Completo,Crackeado e Ativado\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"Date"="2013-03-03T05:26:21Z"
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6\Demographic]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="57BABBD1C14EC22C389339B91E507C8"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-21T16:38:24.5131Z]
+@="C:\\Users\\jefferson\\Desktop\\bondinho_2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-21T16:51:45.4510Z]
+@="C:\\Users\\jefferson\\Documents\\bond_dentro.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-21T17:22:33.4151Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\262_n1ZIz.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-21T19:06:05.1080Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\SAM_4361.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-21T19:34:12.6370Z]
+@="C:\\Users\\jefferson\\Pictures\\Renan e Ryan\\564142_106376379518219_1181253517_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-22T21:28:46.2310Z]
+@="C:\\Users\\jefferson\\Pictures\\alvin\\alvin-e-os-esquilos.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T05:18:05.9220Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\SAM_4209.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T07:12:48.1681Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\8.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T07:15:17.6782Z]
+@="C:\\Users\\jefferson\\Desktop\\images.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T07:28:14.4283Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\397591_534059459952675_735993648_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T08:00:13.9024Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\jeff 05.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T08:10:53.6785Z]
+@="C:\\Users\\jefferson\\Pictures\\fotos jefferson\\SAM_4360.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-02-25T20:22:01.9360Z]
+@="C:\\Users\\jefferson da rocha\\Pictures\\fotos jefferson\\colagem.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2013-03-17T22:56:33.2600Z]
+@="C:\\Users\\jefferson da rocha\\Pictures\\fotos jefferson\\CIMG4108.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-11-20T15:28:59.790Z]
+@="C:\\Users\\Alisson(NãoUtilize)\\Pictures\\Messi.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-11-20T21:55:09.8250Z]
+@="C:\\Users\\Alisson(NãoUtilize)\\Desktop\\Sem Título-1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-11T23:40:22.8440Z]
+@="C:\\Users\\n\\Pictures\\CAPA.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-13T21:23:04.4060Z]
+@="C:\\Users\\n\\Pictures\\Attack-on-Titan-Season-2-new-Poster.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-13T21:23:58.8181Z]
+@="C:\\Users\\n\\Pictures\\Attack-on-Titan-Season-2-new-Poster.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-14T21:33:31.9081Z]
+@="C:\\Users\\n\\Pictures\\703386_gamepad_512x512.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-14T21:46:13.7500Z]
+@="C:\\Users\\n\\Pictures\\pes-2014-xbox-one-playstation-4-ps4-fora.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-14T21:46:21.921Z]
+@="C:\\Users\\n\\Pictures\\nintendo_snes.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-15T22:59:52.3600Z]
+@="C:\\Users\\n\\Pictures\\photoshop-cs6-portable.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-15T23:01:29.791Z]
+@="C:\\Users\\n\\Pictures\\32-or-64-bit-office.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-15T23:02:13.1252Z]
+@="C:\\Users\\n\\Pictures\\64.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-15T23:03:24.6563Z]
+@="C:\\Users\\n\\Pictures\\extra-64bit (1).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-16T22:50:32.4440Z]
+@="C:\\Users\\n\\Pictures\\photo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-16T22:51:04.2891Z]
+@="C:\\Users\\n\\Pictures\\plano de fundos\\Carro-4.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T21:17:08.170Z]
+@="C:\\Users\\n\\Desktop\\Pack Youtuber CS GO\\PSD\\Background Para Live.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T21:18:17.1351Z]
+@="C:\\Users\\n\\Desktop\\Pack Youtuber CS GO\\PSD\\Facecam.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T21:19:08.203Z]
+@="C:\\Users\\n\\Desktop\\Pack Youtuber CS GO\\PSD\\Thumbnail.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T21:19:41.7594Z]
+@="C:\\Users\\n\\Desktop\\Pack Youtuber CS GO\\Modelo\\Final De Vídeo cs.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T21:25:10.9471Z]
+@="C:\\Users\\n\\Desktop\\Pack Youtuber CS GO\\PSD\\Final De Vídeo cs.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T21:58:01.3196Z]
+@="C:\\Users\\n\\Pictures\\plano de fundos\\plaan.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T22:02:08.93011Z]
+@="C:\\Users\\n\\Pictures\\plaan.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T22:06:34.30012Z]
+@="C:\\Users\\n\\Pictures\\maxresdefault (2).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T22:08:03.15213Z]
+@="C:\\Users\\n\\Pictures\\43427230231161939.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T22:12:43.930Z]
+@="C:\\Users\\n\\Desktop\\Banner YouTube\\Psd\\Banner.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T23:27:29.9550Z]
+@="C:\\Users\\n\\Documents\\Camtasia Studio\\IMAGENS\\IMAGENS_First_Frame.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T23:39:33.6022Z]
+@="C:\\Users\\n\\Documents\\Camtasia Studio\\IMAGENS\\01\\01_First_Frame.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T23:41:52.6833Z]
+@="C:\\Users\\n\\Pictures\\youtube-logo-play-icon-png-24.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T23:45:35.3194Z]
+@="C:\\Users\\n\\Pictures\\17358651_596317063907803_5194844810700152908_o.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-17T23:47:30.8375Z]
+@="C:\\Users\\n\\Pictures\\fe2a6de8589b6599a2dc682d27699f8f.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-19T05:39:51.4330Z]
+@="C:\\Users\\n\\Pictures\\play-24809_960_720.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-19T22:01:50.2653Z]
+@="C:\\Users\\n\\Pictures\\unnamed.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-19T22:04:38.9364Z]
+@="C:\\Users\\n\\Pictures\\minecraft_render___skeleton_by_danixoldier-d6t90hl.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-19T22:07:49.3467Z]
+@="C:\\Users\\n\\Pictures\\minecraft_render___skeleton_by_danixoldier-d6t90hl.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-19T22:11:06.9388Z]
+@="C:\\Users\\n\\Pictures\\Render Minecraft 03 - Designer Conect.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-19T22:19:20.9419Z]
+@="C:\\Users\\n\\Pictures\\Render Minecraft 01 - Designer Conect.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-21T23:44:07.910Z]
+@="C:\\Users\\n\\Desktop\\Modelo de capa para Youtube 2015.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-21T23:49:04.3551Z]
+@="C:\\Users\\n\\Pictures\\plano de fundos\\anjo-maligno - Copia.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-21T23:56:32.4400Z]
+@="C:\\Users\\n\\Pictures\\113131322SZ.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-22T00:11:04.3090Z]
+@="C:\\Users\\n\\Pictures\\plano de fundos\\plaan.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-22T02:22:38.7140Z]
+@="C:\\Users\\n\\Pictures\\youtube.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-22T02:23:13.2691Z]
+@="C:\\Users\\n\\Pictures\\youtube.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-22T02:31:24.2220Z]
+@="C:\\Users\\n\\Pictures\\youtubelayout.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-22T21:04:42.2170Z]
+@="C:\\Users\\n\\Pictures\\Banner.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-26T21:15:05.7352Z]
+@="C:\\Users\\n\\Pictures\\fundobranco-750x1080asderf.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T21:33:56.1611Z]
+@="C:\\Users\\n\\Pictures\\euapratroa.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T21:49:48.4414Z]
+@="C:\\Users\\n\\Pictures\\eu a patroa e as crianças capa.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T21:50:03.585Z]
+@="C:\\Users\\n\\Pictures\\Euapatroaeascrianas.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T22:03:24.4391Z]
+@="C:\\Users\\n\\Pictures\\inscreva-se (1).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T22:11:12.5824Z]
+@="C:\\Users\\n\\Pictures\\Sem Título-1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T23:49:11.2550Z]
+@="C:\\Users\\n\\Pictures\\Euapatroaeascrianas01.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-27T23:51:20.3692Z]
+@="C:\\Users\\n\\Pictures\\youtube-like-png-transparent-3.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-30T22:02:58.1640Z]
+@="C:\\Users\\n\\Pictures\\eu a patroa e as crianças capa.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-30T23:23:07.5430Z]
+@="C:\\Users\\n\\Pictures\\3pch4q.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-30T23:25:55.2041Z]
+@="C:\\Users\\n\\Pictures\\download.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-31T15:31:38.6540Z]
+@="C:\\Users\\n\\Pictures\\hqdefault (1).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-01T23:52:16.8421Z]
+@="C:\\Users\\n\\Pictures\\chaves em desenho.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-02T00:04:35.1660Z]
+@="C:\\Users\\n\\Pictures\\maxresdefault (3).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-02T00:04:54.8161Z]
+@="C:\\Users\\n\\Pictures\\1a7d36ef94ee8ab5ec809d3998817cf1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-02T00:05:04.9382Z]
+@="C:\\Users\\n\\Pictures\\botao-redes-sociais-site-youtube.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-02T00:05:11.2303Z]
+@="C:\\Users\\n\\Pictures\\a2102f09707039fba37feea31fafbf06--alis-clipart.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-05T01:59:01.5700Z]
+@="C:\\Users\\n\\Pictures\\victoryroad3.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:01:57.7460Z]
+@="C:\\Users\\n\\Pictures\\zubat-2.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:02:14.3571Z]
+@="C:\\Users\\n\\Pictures\\pokebola-go.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:03:21.132Z]
+@="C:\\Users\\n\\Pictures\\tumblr_lfyhvclAXg1qdk2kr.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:04:17.6973Z]
+@="C:\\Users\\n\\Pictures\\ash001.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:34:18.440Z]
+@="C:\\Users\\n\\Pictures\\gamefun_go-kart-go-turbo_capa.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:53:51.7240Z]
+@="C:\\Users\\n\\Pictures\\go kart go turbo fundo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-06T01:55:05.5431Z]
+@="C:\\Users\\n\\Pictures\\go kart go turbo fundo1 png.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-08T00:16:05.1100Z]
+@="C:\\Users\\n\\Pictures\\ec3f1419-609d-482b-b926-37ee146545a2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-08T00:19:06.2971Z]
+@="C:\\Users\\n\\Pictures\\pokemon-fire-red-logo_260399.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-11T01:39:37.8880Z]
+@="C:\\Users\\n\\Pictures\\overlap.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-11T01:41:54.1301Z]
+@="C:\\Users\\n\\Pictures\\maxresdefault (7).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-16T22:44:52.4230Z]
+@="C:\\Users\\n\\Pictures\\maxresdefault (8).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-18T21:48:25.9500Z]
+@="C:\\Users\\n\\Pictures\\studio extreme d'água.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-20T20:35:34.9350Z]
+@="C:\\Users\\n\\Pictures\\sweetpng.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-20T20:37:27.1681Z]
+@="C:\\Users\\n\\Pictures\\seta-vermelha-2png.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-04T00:30:53.8160Z]
+@="C:\\Users\\n\\Pictures\\MEmu Fotos\\maxresdefault.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-04T00:31:16.6681Z]
+@="C:\\Users\\n\\Pictures\\MEmu Fotos\\unnamed (3).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-04T00:39:43.6592Z]
+@="C:\\Users\\n\\Pictures\\MEmu Fotos\\unnamed (3).psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-04T00:39:43.8563Z]
+@="C:\\Users\\n\\Pictures\\MEmu Fotos\\maxresdefault.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-21T01:07:31.2700Z]
+@="C:\\Users\\n\\Pictures\\dls2017.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-04-13T15:17:44.7570Z]
+@="D:\\Unity_Projects\\PSC6\\moeda.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-04-14T18:58:22.3370Z]
+@="D:\\Unity_Projects\\PSC6\\Moeda.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-04-15T15:50:01.760Z]
+@="D:\\Unity_Projects\\PSC6\\PARTICULAS.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-04-15T15:50:48.7090Z]
+@="D:\\Unity_Projects\\PSC6\\PARTICULAS2.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-05-14T18:27:45.7170Z]
+@="D:\\Unity_Projects\\PSC6\\Moedas\\Moeda.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000001
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[57,32,1728,972]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="D:\\Unity_Projects\\PSC6\\Moedas\\"
