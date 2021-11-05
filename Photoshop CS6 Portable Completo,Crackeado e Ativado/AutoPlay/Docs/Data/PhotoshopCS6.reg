@@ -51,6 +51,9 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
 "OptIn"=dword:00000000
 
+[HKEY_CURRENT_USER\Software\Adobe\EE2320109784]
+@="D878D60C983E00888AAD90B6331F7726103DC398"
+
 [HKEY_CURRENT_USER\Software\Adobe\IAC]
 "UserID"="57BABBD1C14EC22C389339B91E507C8"
 
@@ -366,10 +369,10 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
 "uiLanguageKey CS6"="en_US"
-"oldPaletteFontTypeKey CS6"=dword:00000001
+"oldPaletteFontTypeKey CS6"=dword:00000000
 "MemoryUsage"=dword:0000003c
 "ShowStatusWindow"=dword:00000001
-"AppWindowPosition"="[57,32,1728,972]"
+"AppWindowPosition"="[57,31,1728,936]"
 
 [HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
 "STARTUPIMAGEDIRECTORY"="D:\\Unity_Projects\\PSC6\\Moedas\\"
